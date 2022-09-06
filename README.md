@@ -1,4 +1,4 @@
-# Demo on how to train a Detectron2 segmentation model (R-CNN) on top of a model that was trained with VISSL 
+# Detectron 2 and VISSL 
 
 Wonder how to combine VISSL (Self-Supervised Learning library) with image segmentation from Detectron 2? Here is how.
 
