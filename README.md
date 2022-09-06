@@ -1,9 +1,9 @@
 # Demo on how to train a Detectron2 segmentation model (R-CNN) on top of a model that was trained with VISSL 
 
-Wonder how to combine the Self-Supervised Learning approach with classical and proven Detectron2 segmentation? Here is how.
+Wonder how to combine VISSL (Self-Supervised Learning library) with image segmentation from Detectron 2? Here is how.
 
 ## Dataset
-Download balloons dataset into the balloon folder.
+Download balloons dataset into the ``balloon`` folder.
 
 Direct link https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip from https://github.com/matterport/Mask_RCNN/releases
 
