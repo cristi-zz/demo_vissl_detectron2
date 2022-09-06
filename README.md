@@ -75,3 +75,5 @@ There should be some errors regarding fvcore and hydra-core. Well . . .
 Now, install some additional tools like jupyterlab 
 
     conda install jupyterlab ipympl
+
+Launch a ``juputer lab`` and go to [detectron_vissl_2.ipynb](https://github.com/cristi-zz/demo_vissl_detectron2/blob/master/src/detectron_vissl_2.ipynb)
