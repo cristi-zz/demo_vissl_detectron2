@@ -2,10 +2,21 @@
 
 Wonder how to combine the Self-Supervised Learning approach with classical and proven Detectron2 segmentation? Here is how.
 
-# TODO
-instructions to download and unpack balloons.
+## Dataset
+Download balloons dataset into the balloon folder.
 
+Direct link https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip from https://github.com/matterport/Mask_RCNN/releases
 
+The content of the folder should be:
+
+    balloon/
+        val/
+            ...
+        train/
+            ...
+        readme.txt
+
+## Install VISSL
 
 [Install VISSL from source](https://github.com/facebookresearch/vissl/blob/main/INSTALL.md#installing-vissl-from-source-recommended)
 
@@ -58,6 +69,8 @@ Follow the instructions here: https://detectron2.readthedocs.io/en/latest/tutori
 I installed it from commit 717ab9f0aeca216a2f800e43d705766251ba3a55
 
 There should be some errors regarding fvcore and hydra-core. Well . . .
+
+## Install other tools
 
 Now, install some additional tools like jupyterlab 
 

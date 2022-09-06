@@ -131,3 +131,7 @@ checkpoints/
 configs/
 output/
 .idea
+balloon/*
+~balloon/readme.txt
+models/*
+~models/readme.txt
