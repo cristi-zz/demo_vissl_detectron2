@@ -2,6 +2,8 @@
 
 Wonder how to combine VISSL (Self-Supervised Learning library) with image segmentation from Detectron 2? Here is how.
 
+The story behind this code, can be found [in this blog post](https://www.visoft.ro/machine-learning/vissl-and-detectron-2-instant-pain/1855/).
+
 ## Dataset
 Download balloons dataset into the ``balloon`` folder.
 
